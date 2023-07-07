@@ -4,7 +4,7 @@
 :desktop_computer: A little about me:
 ----------------------------------------------------------------------------------------------
 
-Computer science student passionate about software development. Always looking to learn something 
+<h4>Computer science student passionate about software development. Always looking to learn something 
 
 
 :gear: Some Tool and Tech I use:
